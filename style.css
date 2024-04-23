@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+}
+.ok_button{
+    background-color: blue;
+}
+.reset_button{
+    background-color: red;
+}
